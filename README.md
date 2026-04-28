@@ -1,8 +1,6 @@
-# Assignment Announcement: Unit Testing — Parking Slot Booking (With Intentional Defects)
+# Announcement: Unit Testing — Parking Slot Booking (With Intentional Defects)
 
-* **Assignment Type:** Individual or a group of maximum 5 students
-* **Deadline:** **Wednesday, January 28, 2026, 11:59 PM**
-* **Submission file:** `<student_id>_unit_test.zip` (structure below)
+
 
 ---
 ## Objective
